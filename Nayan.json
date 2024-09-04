@@ -1,119 +1,27 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%2261560214402871%22%3A%22wV2GMsuT%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.672Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "datr",
-        "value": "8lS_ZhTbvkjH45RV7J5GR-wO",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "sb",
-        "value": "8lS_ZqNgo4vG6JTcTCq-AlT7",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "ps_l",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "ps_n",
-        "value": "1",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "vpd",
-        "value": "v1%3B696x360x2",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "wd",
-        "value": "360x696",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "c_user",
-        "value": "61560214402871",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "xs",
-        "value": "20%3A7Hd4O1w3tOZs-A%3A2%3A1725383249%3A-1%3A5132",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "fr",
-        "value": "0tOrEIecN3NSIhlHS.AWVgT0cUlQl8jxv3Y2qGEtNMz1A.Bmv1Ty..AAA.0.0.Bm10JT.AWV6LlacyT8",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "locale",
-        "value": "en_GB",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "101433579%3BT%3A28757652",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2611%3Btimestamp%3A1725459144",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-09-04T14:12:47.677Z",
-        "lastAccessed": "2024-09-04T14:12:47.677Z"
-    }
-]
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "BOTNAME": "nayan-bot",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100014896964436",
+    "100000959749712"
+  ],
+  "ADMINBOT": [
+    "",
+    ""
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
